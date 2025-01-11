@@ -1,4 +1,5 @@
-const BASE_URL = "http://srilankalocationdetails.centralindia.azurecontainer.io:3000/api/cities";
+const BASE_URL =
+  "http://srilankalocationdetails.centralindia.azurecontainer.io:3000/api";
 const filterType = document.getElementById("filterType");
 const filterInputContainer = document.getElementById("filterInputContainer");
 const filterInput = document.getElementById("filterInput");
